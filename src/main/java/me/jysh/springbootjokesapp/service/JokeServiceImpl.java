@@ -1,4 +1,4 @@
-package me.jysh.springbootjokesapp.Service;
+package me.jysh.springbootjokesapp.service;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;

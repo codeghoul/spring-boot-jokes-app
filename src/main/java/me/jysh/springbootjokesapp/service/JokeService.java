@@ -1,4 +1,4 @@
-package me.jysh.springbootjokesapp.Service;
+package me.jysh.springbootjokesapp.service;
 
 public interface JokeService {
     public String getJoke();
